@@ -1,5 +1,3 @@
-### Hi, I'm Nino
-
 Founding Engineer at [Standout](https://standout.work) (YC P26), building AI agents and full-stack product for recruiting. Also an M.S. student in Management Science & Engineering at Stanford.
 
 - **Work on:** LLM agents, retrieval (RAG), evaluation and observability for AI systems
